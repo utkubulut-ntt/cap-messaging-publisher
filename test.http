@@ -1,0 +1,10 @@
+###
+POST http://localhost:4004/personnel-management/Personnels
+Content-Type: application/json
+
+{
+    "personnelNo": 154,
+    "firstName": "Gizem",
+    "lastName": "Soylu",
+    "country": "TR"
+}
